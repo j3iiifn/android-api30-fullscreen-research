@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">API 30 Fullscreen</string>
+
+    <string-array name="array_hide">
+        <item>statusBars</item>
+        <item>navigationBars</item>
+        <item>statusBars or navigationBars</item>
+    </string-array>
+
+    <string-array name="array_behavior">
+        <item>BEHAVIOR_SHOW_BARS_BY_TOUCH</item>
+        <item>BEHAVIOR_SHOW_BARS_BY_SWIPE</item>
+        <item>BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE</item>
+    </string-array>
+</resources>
